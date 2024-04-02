@@ -8,4 +8,4 @@
 Thiago-25/Thiago-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-oi  sou Thiago, estou interessado em ciências de dados, atualmente estudo logica da programaçao em python.
+Oi  sou Thiago, estou interessado na primeira oportunidade na area da tecnologia da infromação.
